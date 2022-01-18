@@ -52,9 +52,10 @@ main {
     margin-bottom: 15px;
 }
 
-h1 {
+a {
     color: white;
     font-size: 23px;
+    text-decoration: none;
 }
 
 p {
@@ -91,11 +92,12 @@ ul {
     margin-right: 15px;
 }
 
-strong {
-    color: white;
+.creator a {
+    font-size: 18px;
+    font-weight: 700;
 }
 
-h1:hover,
+a:hover,
 strong:hover {
     color: cyan;
     cursor: pointer;
