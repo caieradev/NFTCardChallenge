@@ -72,12 +72,12 @@ ul {
 
 .etherium {
     color: cyan;
-    list-style-image: url("../images/icon-ethereum.svg");
+    list-style-image: url("../assets/icon-ethereum.svg");
     float: left;
 }
 
 .time-left {
-    list-style-image: url("../images/icon-clock.svg");
+    list-style-image: url("../assets/icon-clock.svg");
     color: hsl(215, 28%, 40%);
     float: right;
 }
