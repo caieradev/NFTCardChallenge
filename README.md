@@ -10,6 +10,10 @@
   <a href="mailto:caiombuenof@gmail.com">
     <img alt="Email de Caio Miguel" src="https://img.shields.io/badge/-caiombuenof@gmail.com-0077B7?style=flat&logo=Gmail&logoColor=white" />
   </a>
+   
+   <a href="https://web.whatsapp.com/send?phone=5551991732630">
+    <img alt="WhatsApp de Caio Miguel" src="https://img.shields.io/badge/-WhatsApp-0077B7?style=flat&logo=WhatsApp&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
